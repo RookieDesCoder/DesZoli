@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RookieDesCoder
+- 👀 I’m interested in writing scripts which make my life easier.
+- 🌱 I’m currently learning basic programming codes and PLCs.
+- 💞️ I’m looking to collaborate on anything which gives me knowledge about the world of programming.
+- 📫 How to reach me: des.rookie.coding@gmail.com
